@@ -1,15 +1,33 @@
-# OctoFit Tracker 🏋️‍♂️
-
 <div align="center">
 
-![OctoFit Logo](docs/octofitapp-small.png)
+# 🎉 Congratulations hlucas13! 🎉
 
-**A modern fitness tracking application built with React, Django, and MongoDB**
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![React](https://img.shields.io/badge/React-19.2.4-61dafb.svg)](https://reactjs.org/)
-[![Django](https://img.shields.io/badge/Django-4.1.7-092e20.svg)](https://www.djangoproject.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Latest-47A248.svg)](https://www.mongodb.com/)
+### 🌟 You've successfully completed the exercise! 🌟
+
+## 🚀 Share Your Success!
+
+**Show off your new skills and inspire others!**
+
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fhlucas13%2Fflai-workshop-github-copilot-800%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fhlucas13%2Fflai-workshop-github-copilot-800%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Build%20Applications%20with%20GitHub%20Copilot%20Agent%20Mode%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fhlucas13%2Fflai-workshop-github-copilot-800%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
+
+### 🎯 What's Next?
+
+**Keep the momentum going!**
+
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/hlucas13/flai-workshop-github-copilot-800/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
+
+*There's no better way to learn than building things!* 🚀
 
 </div>
 
